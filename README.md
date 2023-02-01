@@ -20,7 +20,7 @@
 
 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
 
-[https://szrq.ga/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8](https://szrq.ga/IPTV-Checker-2.5-Simplified-Chinese.exe)
+<a href="https://szrq.ga/IPTV-Checker-2.5-Simplified-Chinese.exe" rel="nofollow">IPTV Checker 2.5 Simplified Chinese.exe</a>
 
 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
 
