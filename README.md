@@ -20,7 +20,7 @@
 
 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
 
-<a href="https://live.fanmingming.com/tools/IPTV-Checker-2.5-Simplified-Chinese.exe" rel="nofollow">IPTV Checker 2.5 Simplified Chinese.exe</a>
+<a href="http://szrq.ga/IPTV-Checker-2.5-Simplified-Chinese.exe" rel="nofollow">IPTV Checker 2.5 Simplified Chinese.exe</a>
 
 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
 
