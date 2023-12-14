@@ -12,10 +12,6 @@
 
 📻Radio直播源 https://live.fanmingming.com/radio/m3u/index.m3u
 
-🆕重庆广电直播源 https://live.fanmingming.com/tv/m3u/cqccn.m3u
-
-🏙️包头联通IPTV(内网) https://live.fanmingming.com/tv/m3u/btcu.m3u
-
 🛠️工具
 
 为了方便管理和维护已有的直播源内容，添加了一个直播源检测工具。
