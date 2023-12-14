@@ -28,4 +28,4 @@ Player Demo🔗 https://szrq2022.cf/player/?vurl=https://livedoc.cgtn.com/500d/p
 
 🌐M3U8 Web Player:
 
-Demo🔗 https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8
+Demo🔗 https://szrq2022.cf/player/?vurl=https://0472.org/hls/cctv13.m3u8
