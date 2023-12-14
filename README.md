@@ -22,6 +22,10 @@
 
 <a href="https://github.com/Benson80/Live-source-sharing/blob/main/IPTV-Checker-2.5-Simplified-Chinese.exe" rel="nofollow">IPTV Checker 2.5 Simplified Chinese.exe</a>
 
+🏞️Bing每日图片：
+
+https://szrq2022.cf/bing
+
 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
 
 Player Demo🔗 https://szrq2022.cf/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8
