@@ -24,4 +24,4 @@
 
 添加了一个m3u8在线播放器，请参考下方Demo链接来使用。
 
-Player Demo🔗 https://szrq.ga/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8
+Player Demo🔗 https://szrq2022.cf/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8
