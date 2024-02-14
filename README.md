@@ -20,10 +20,10 @@
 
 - 🏞️Bing每日图片：
 
-  -  [https://szrq2022.cf/bing](https://szrq2022.cf/bing)
+  -  [https://szrq2022.benson80.eu.org/bing](https://szrq2022.benson80.eu.org/bing)
 
 - 🌐M3U8 Web Player:
 
-  - Demo🔗 https://szrq2022.cf/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8
+  - Demo🔗 https://szrq2022.benson80.eu.org/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-  - Demo🔗 https://szrq2022.cf/player/?vurl=https://0472.org/hls/cctv13.m3u8
+  - Demo🔗 https://szrq2022.benson80.eu.org/player/?vurl=https://0472.org/hls/cctv13.m3u8
