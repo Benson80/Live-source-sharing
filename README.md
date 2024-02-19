@@ -20,7 +20,7 @@
 
 - 🏞️Bing每日图片：
 
-  -  [https://szrq2022.benson80.eu.org/bing](https://szrq2022.benson80.eu.org/bing)
+  -  [http://sunxiao.0fees.net/bing](http://sunxiao.0fees.net/bing)
 
 - 🌐M3U8 Web Player:
 
