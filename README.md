@@ -26,4 +26,4 @@
 
   - Demo🔗 http://sunxiao.0fees.net/player/?vurl=https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-  - Demo🔗 http://sunxiao.0fees.net/player/?vurl=https://0472.org/hls/cctv13.m3u8
+  - Demo🔗 http://sunxiao.0fees.net/player/?vurl=https://0472.org/hls/cgtn.m3u8
