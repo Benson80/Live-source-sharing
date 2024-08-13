@@ -8,9 +8,11 @@
 
 📺IPTV(IPV6专用) https://live.fanmingming.com/tv/m3u/ipv6.m3u
 
-🌏Global直播源 https://live.fanmingming.com/tv/m3u/global.m3u
+🌏ITV直播源 https://live.fanmingming.com/tv/m3u/itv.m3u
 
 📻Radio直播源 https://live.fanmingming.com/radio/m3u/index.m3u
+
+​              https://live.fanmingming.com/radio/m3u/fm.m3u
 
 🛠️工具
 
