@@ -30,4 +30,4 @@
 
   - Demo🔗 http://sunxiao.0fees.net/player/?vurl=https://0472.org/hls/cgtn.m3u8
  
-  - Demo🔗 http://sunxiao.0fees.net/player/?vurl=http://cdn.adultiptv.net/asian.m3u8
+  - Demo🔗 http://sunxiao.0fees.net/player/?vurl=https://0472.org/hls/cgtnd.m3u8
