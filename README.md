@@ -22,7 +22,7 @@
 
 - 🏞️Bing每日图片：
 
-  -  [http://sunxiao.0fees.net/bing](http://sunxiao.0fees.net/bing)
+  -  [http://sunxiao.dpdns.org/bing](http://sunxiao.dpdns.org/bing)
 
 - 🌐M3U8 Web Player:
 
